@@ -1,0 +1,1 @@
+# Text-Aware-Generative-Adversarial-Networks-TAGANs-Improving-Text-Fidelity-in-AI-Generated-Graphics
